@@ -1,3 +1,3 @@
 # Fairness-in-Large-Language-Models
 
-![demo](demo.jpg)
+![demo](Fairness in Large Language Models.jpg)
