@@ -4,4 +4,5 @@
 
 ## Quantifying Bias in LLMs
 ### Embbedding-based Metrics
-+ Semantics derived automatically from language corpora contain human-like biases, [[arXiv]](https://arxiv.org/abs/1608.07187)
++ Semantics derived automatically from language corpora contain human-like biases (WEAT), [[arXiv]](https://arxiv.org/abs/1608.07187)
++ On measuring social biases in sentence encoders (SEAT), [[NAACL]](https://arxiv.org/abs/1903.10561)
