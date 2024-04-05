@@ -10,3 +10,4 @@
 ### Embbedding-based Metrics
 + Semantics derived automatically from language corpora contain human-like biases (WEAT), [[arXiv]](https://arxiv.org/abs/1608.07187)
 + On measuring social biases in sentence encoders (SEAT), [[NAACL]](https://arxiv.org/abs/1903.10561)
++ Detecting emergent intersectional biases: Contextualized word embeddings contain a distribution of human-like biases, [[AAAI]](https://dl.acm.org/doi/abs/10.1145/3461702.3462536)
