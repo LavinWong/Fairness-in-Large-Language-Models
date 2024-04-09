@@ -1,5 +1,7 @@
 # Fairness in Large Language Models: A Taxonomic Survey
-
+```
+Zhibo Chu, Zichong Wang, Wenbin Zhang
+```
 ![Fairness in Large Language Models](https://github.com/super-hash/Fairness-in-Large-Language-Models/blob/main/Fairness%20in%20Large%20Language%20Models.png)
 ## Surveys
 + Fairness in Large Language Models: A Taxonomic Survey, [[arXiv]](https://arxiv.org/abs/2404.01349)
@@ -37,7 +39,14 @@
 + Queer People are People First: Deconstructing Sexual Identity Stereotypes in Large Language Models,[[ACL]](https://arxiv.org/abs/2307.00101)
 + Text Style Transfer for Bias Mitigation using Masked Language Modeling,[[NAACL]](https://aclanthology.org/2022.naacl-srw.21/)
 ## Datasets
-+ BOLD(https://github.com/amazon-science/bold)
++ [[BOLD]](https://github.com/amazon-science/bold)
++ [[BBQ]](https://github.com/nyu-mll/BBQ)
++ [[CrowS-Pairs]](https://github.com/nyu-mll/crows-pairs/)
++ [[StereoSet]](https://github.com/moinnadeem/stereoset)
++ [[WinoBias]](https://github.com/uclanlp/corefBias)
++ [[WinoBias+]](https://github.com/vnmssnhv/NeuTralRewriter)
++ [[WinoGender]](https://github.com/rudinger/winogender-schemas)
++ [[WinoQueer]](https://github.com/katyfelkner/winoqueer)
 
 ## Citation
 
