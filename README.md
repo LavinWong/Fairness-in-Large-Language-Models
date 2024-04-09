@@ -18,7 +18,7 @@ This ongoing endeavor aims to consolidate interesting efforts in the area of fai
 ### Probability-based Metrics
 + Measuring and reducing gendered correlations in pre-trained models (DisCo) [[arXiv]](https://arxiv.org/abs/2010.06032)
 + Measuring Bias in Contextualized Word Representations,[[ACL]] (https://aclanthology.org/W19-3823/)
-+ CrowS-Pairs: A Challenge Dataset for Measuring Social Biases in Masked Language Models,[[ACL]] (https://aclanthology.org/2020.emnlp-main.154/)
++ CrowS-Pairs: A Challenge Dataset for Measuring Social Biases in Masked Language Models [[ACL]] (https://aclanthology.org/2020.emnlp-main.154/)
 ### Generation-based Metrics
 + Identifying and reducing gender bias in word-level language models [[ACL]](https://aclanthology.org/N19-3002.pdf)
 ## Mitigating Bias in LLMs
