@@ -1,4 +1,4 @@
-# Fairness-in-Large-Language-Models
+# Fairness in Large Language Models: A Taxonomic Survey
 
 ![Fairness in Large Language Models](https://github.com/super-hash/Fairness-in-Large-Language-Models/blob/main/Fairness%20in%20Large%20Language%20Models.png)
 ## Surveys
@@ -38,3 +38,16 @@
 + Text Style Transfer for Bias Mitigation using Masked Language Modeling,[[NAACL]](https://aclanthology.org/2022.naacl-srw.21/)
 ## Datasets
 + BOLD(https://github.com/amazon-science/bold)
+
+## Citation
+
+Pre-print: https://arxiv.org/abs/2309.00770
+If you find that our survey helps your research, please consider citing it:
+```
+@article{chu2024fairness,
+  title={Fairness in Large Language Models: A Taxonomic Survey},
+  author={Chu, Zhibo and Wang, Zichong and Zhang, Wenbin},
+  journal={arXiv preprint arXiv:2404.01349},
+  year={2024}
+}
+```
