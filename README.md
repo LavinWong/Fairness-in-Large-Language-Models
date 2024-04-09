@@ -51,7 +51,7 @@ This ongoing endeavor aims to consolidate interesting efforts in the area of fai
 
 ## Citation
 
-Pre-print: https://arxiv.org/abs/2309.00770
+Pre-print: https://arxiv.org/abs/2404.01349
 
 If you find that our survey helps your research, please consider citing it:
 ```
