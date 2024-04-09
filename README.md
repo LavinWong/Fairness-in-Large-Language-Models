@@ -1,9 +1,9 @@
 # Fairness in Large Language Models
 
 This ongoing endeavor aims to consolidate interesting efforts in the area of fairness in large language models, as outlined in the proposed taxonomy.
-```
+
 [Fairness in Large Language Models: A Taxonomic Survey](https://arxiv.org/abs/2404.01349) Zhibo Chu, Zichong Wang, Wenbin Zhang.
-```
+
 ![Fairness in Large Language Models](https://github.com/super-hash/Fairness-in-Large-Language-Models/blob/main/Fairness%20in%20Large%20Language%20Models.png)
 ## Surveys
 + Fairness in Large Language Models: A Taxonomic Survey, [[arXiv]](https://arxiv.org/abs/2404.01349)
@@ -21,7 +21,6 @@ This ongoing endeavor aims to consolidate interesting efforts in the area of fai
 + CrowS-Pairs: A Challenge Dataset for Measuring Social Biases in Masked Language Models,[[ACL]](https://aclanthology.org/2020.emnlp-main.154/)
 ### Generation-based Metrics
 + Identifying and reducing gender bias in word-level language models,[[ACL]](https://aclanthology.org/N19-3002.pdf)
-+ Fairness definitions explained,[[ICSE]](https://dl.acm.org/doi/abs/10.1145/3194770.3194776)
 ## Mitigating Bias in LLMs
 ### Pre-processing
 + Measuring and reducing gendered correlations in pre-trained models,[[arXiv]](https://arxiv.org/abs/2010.06032)
