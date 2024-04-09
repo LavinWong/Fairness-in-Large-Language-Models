@@ -37,3 +37,4 @@
 + Queer People are People First: Deconstructing Sexual Identity Stereotypes in Large Language Models,[[ACL]](https://arxiv.org/abs/2307.00101)
 + Text Style Transfer for Bias Mitigation using Masked Language Modeling,[[NAACL]](https://aclanthology.org/2022.naacl-srw.21/)
 ## Datasets
++ BOLD(https://github.com/amazon-science/bold)
