@@ -3,7 +3,8 @@
 This ongoing endeavor aims to consolidate interesting efforts in the area of fairness in large language models, as outlined in the proposed taxonomy.
 
 [Fairness in Large Language Models: A Taxonomic Survey](https://arxiv.org/abs/2404.01349) Zhibo Chu, Zichong Wang, and Wenbin Zhang.
-Email: zb.chu2001@gmail.com
+
+Email:zb.chu2001@gmail.com - Zhibo Chu
 
 ![Fairness in Large Language Models](https://github.com/super-hash/Fairness-in-Large-Language-Models/blob/main/Fairness%20in%20Large%20Language%20Models.png)
 ## Surveys
