@@ -56,14 +56,14 @@ Email: zb.chu2001@gmail.com - Zhibo Chu
 
 ## Citation
 
-Pre-print: https://arxiv.org/abs/2404.01349
+Our survey paper "Fairness in Large Language Models: A Taxonomic Survey" has been accepted by ACM SIGKDD Explorations Newsletter and released on arxiv: [![PDF](https://img.shields.io/badge/PDF-Download-red)](https://arxiv.org/abs/2404.01349)
 
-If you find that our survey helps your research, please consider citing it:
+If you find that our survey helps your research, we would appreciate citations to the following paper:
 ```
 @article{chu2024fairness,
   title={Fairness in Large Language Models: A Taxonomic Survey},
   author={Chu, Zhibo and Wang, Zichong and Zhang, Wenbin},
-  journal={arXiv preprint arXiv:2404.01349},
+  journal={ACM SIGKDD Explorations Newsletter},
   year={2024}
 }
 ```
