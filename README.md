@@ -67,3 +67,9 @@ If you find that our survey helps your research, we would appreciate citations t
   year={2024}
 }
 ```
+or:
+```
+\bibitem{chu2024fairness}
+Chu, Z., Wang, Z., Zhang, W.: Fairness in large language models: A taxonomic
+  survey. ACM SIGKDD Explorations Newsletter  (2024)
+```
