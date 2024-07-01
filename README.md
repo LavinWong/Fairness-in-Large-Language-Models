@@ -12,7 +12,7 @@ This ongoing project aims to consolidate interesting efforts in the field of fai
 
 Email:zb.chu2001@gmail.com - Zhibo Chu
 
-![Fairness in Large Language Models](https://github.com/super-hash/Fairness-in-Large-Language-Models/blob/main/Fairness%20in%20Large%20Language%20Models.png)
+![Fairness in Large Language Models](https://github.com/super-hash/Fairness-in-Large-Language-Models/blob/main/Fairness%20in%20Large%20Language%20Models.pdf)
 ## Surveys
 + Fairness in Large Language Models: A Taxonomic Survey [[arXiv]](https://arxiv.org/abs/2404.01349)
 + Bias and Fairness in Large Language Models: A Survey [[arXiv]](https://arxiv.org/abs/2309.00770)
