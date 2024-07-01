@@ -10,7 +10,7 @@ This ongoing project aims to consolidate interesting efforts in the field of fai
 **Fairness Definition in LLMs:** [Fairness Definitions in Language Models Explained]() Thang Viet Doan, Zhibo Chu, Zichong Wang, Wenbin Zhang
 
 
-Email:zb.chu2001@gmail.com - Zhibo Chu
+Email: zb.chu2001@gmail.com - Zhibo Chu
 
 ![Fairness in Large Language Models](https://github.com/super-hash/Fairness-in-Large-Language-Models/blob/main/Fairness%20in%20Large%20Language%20Models.png)
 ## Surveys
