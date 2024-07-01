@@ -2,10 +2,10 @@
 
 This ongoing project aims to consolidate interesting efforts in the field of fairness in Large Language Models (LLMs), drawing on the proposed taxonomy and surveys dedicated to various aspects of fairness in LLMs.
 
+**Fairness in LLMs:** [Fairness in Large Language Models: A Taxonomic Survey](https://arxiv.org/abs/2404.01349) Zhibo Chu, Zichong Wang, and Wenbin Zhang.
+
 **Introduction to LLMs:** [History, Development, and Principles of Large Language Models-An Introductory Survey
 ](https://arxiv.org/abs/2402.06853) Zhibo Chu, Shiwen Ni, Zichong Wang, Xi Feng, Min Yang, Wenbin Zhang
-
-**Fairness in LLMs:** [Fairness in Large Language Models: A Taxonomic Survey](https://arxiv.org/abs/2404.01349) Zhibo Chu, Zichong Wang, and Wenbin Zhang.
 
 **Fairness Definition in LLMs:** [Fairness Definitions in Language Models Explained]() Thang Viet Doan, Zhibo Chu, Zichong Wang, Wenbin Zhang
 
