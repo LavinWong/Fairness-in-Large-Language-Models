@@ -7,7 +7,7 @@ This ongoing project aims to consolidate interesting efforts in the field of fai
 
 **Fairness in LLMs:** [Fairness in Large Language Models: A Taxonomic Survey](https://arxiv.org/abs/2404.01349) Zhibo Chu, Zichong Wang, and Wenbin Zhang.
 
-**Fairness Definition in LLMs:** [Fairness Definitions in Language Models Explained] Thang Viet Doan, Zhibo Chu, Zichong Wang, Wenbin Zhang
+**Fairness Definition in LLMs:** [Fairness Definitions in Language Models Explained]() Thang Viet Doan, Zhibo Chu, Zichong Wang, Wenbin Zhang
 
 
 Email:zb.chu2001@gmail.com - Zhibo Chu
