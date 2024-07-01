@@ -1,6 +1,6 @@
 # Fairness in Large Language Models
 
-This ongoing endeavor aims to consolidate interesting efforts in the area of fairness in large language models, as outlined in the proposed taxonomy.
+This ongoing project aims to consolidate interesting efforts in the field of fairness in Large Language Models (LLMs), drawing on the proposed taxonomy and surveys dedicated to various aspects of fairness in LLMs.
 
 **Introduction to LLMs:** [History, Development, and Principles of Large Language Models-An Introductory Survey
 ](https://arxiv.org/abs/2402.06853) Zhibo Chu, Shiwen Ni, Zichong Wang, Xi Feng, Min Yang, Wenbin Zhang
