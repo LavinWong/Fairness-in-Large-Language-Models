@@ -6,7 +6,7 @@ This ongoing project aims to consolidate interesting efforts in the field of fai
 
 **Fairness in LLMs Tutorial:** [Fairness in Large Language Models: Recent Advances and Future Directions]() Thang Viet Doan, Zichong Wang, Minh Nhat Nguyen and Wenbin Zhang.
 
-## Conferences
+## Conferences/Journals
 
 **Fairness in LLMs:** [Fairness in Large Language Models: A Taxonomic Survey](https://arxiv.org/abs/2404.01349) Zhibo Chu, Zichong Wang and Wenbin Zhang.
 
