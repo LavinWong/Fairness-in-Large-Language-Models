@@ -5,6 +5,7 @@ This ongoing project aims to consolidate interesting efforts in the field of fai
 ## Tutorial
 
 **Fairness in LLMs Tutorial:** [Fairness in Large Language Models: Recent Advances and Future Directions]() Thang Viet Doan, Zichong Wang, Minh Nhat Nguyen and Wenbin Zhang.
+
 Proceedings of the Conference on Information and Knowledge Management (CIKM), Boise, USA, 2024
 
 ## Conferences/Journals
