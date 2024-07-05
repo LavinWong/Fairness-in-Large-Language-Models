@@ -5,7 +5,7 @@ This ongoing project aims to consolidate interesting efforts in the field of fai
 
 
 **Tutorial:** [Fairness in Large Language Models: Recent Advances and Future Directions]()<br>
-Thang Viet Doan, Zichong Wang, Minh Nhat Nguyen and Wenbin Zhang.<br>
+Thang Viet Doan, Zichong Wang, Minh Nhat Nguyen and Wenbin Zhang<br>
 *Proceedings of the Conference on Information and Knowledge Management (CIKM), Boise, USA, 2024*
 
 
