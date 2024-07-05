@@ -6,13 +6,13 @@ This ongoing project aims to consolidate interesting efforts in the field of fai
 
 **Fairness in LLMs Tutorial:** [Fairness in Large Language Models: Recent Advances and Future Directions]()<br>
 Thang Viet Doan, Zichong Wang, Minh Nhat Nguyen and Wenbin Zhang.<br>
-Proceedings of the Conference on Information and Knowledge Management (CIKM), Boise, USA, 2024
+*Proceedings of the Conference on Information and Knowledge Management (CIKM), Boise, USA, 2024*
 
 ## Conferences/Journals
 
 **Fairness in LLMs:** [Fairness in Large Language Models: A Taxonomic Survey](https://arxiv.org/abs/2404.01349)<br>
 Zhibo Chu, Zichong Wang and Wenbin Zhang<br>
-ACM SIGKDD Explorations Newsletter, 2024
+*ACM SIGKDD Explorations Newsletter, 2024*
 
 **Introduction to LLMs:** [History, Development, and Principles of Large Language Models-An Introductory Survey
 ](https://arxiv.org/abs/2402.06853)<br>
