@@ -2,13 +2,13 @@
 
 This ongoing project aims to consolidate interesting efforts in the field of fairness in Large Language Models (LLMs), drawing on the proposed taxonomy and surveys dedicated to various aspects of fairness in LLMs.
 
-## Tutorial
 
-**Fairness in LLMs Tutorial:** [Fairness in Large Language Models: Recent Advances and Future Directions]()<br>
+
+**Tutorial:** [Fairness in Large Language Models: Recent Advances and Future Directions]()<br>
 Thang Viet Doan, Zichong Wang, Minh Nhat Nguyen and Wenbin Zhang.<br>
 *Proceedings of the Conference on Information and Knowledge Management (CIKM), Boise, USA, 2024*
 
-## Conferences/Journals
+
 
 **Fairness in LLMs:** [Fairness in Large Language Models: A Taxonomic Survey](https://arxiv.org/abs/2404.01349)<br>
 Zhibo Chu, Zichong Wang and Wenbin Zhang<br>
