@@ -6,7 +6,7 @@ This ongoing project aims to consolidate interesting efforts in the field of fai
 
 **Tutorial:** [Fairness in Large Language Models in Three Hours]()<br>
 Thang Viet Doan, Zichong Wang, Minh Nhat Nguyen and Wenbin Zhang<br>
-*Proceedings of the Conference on Information and Knowledge Management (CIKM), Boise, USA, 2024*
+*Proceedings of the ACM International Conference on Information and Knowledge Management (CIKM), Boise, USA, 2024*
 
 
 
