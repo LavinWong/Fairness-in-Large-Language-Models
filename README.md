@@ -23,7 +23,7 @@ Thang Viet Doan, Zhibo Chu, Zichong Wang and Wenbin Zhang
 
 
 Email: thang.dv509@gmail.com - Thang Doan<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;zichonglwang@gmail.com - Zichong Wang
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;zichonglwang@gmail.com - Zichong Wang
 
 ![Fairness in Large Language Models](https://github.com/super-hash/Fairness-in-Large-Language-Models/blob/main/Fairness%20in%20Large%20Language%20Models.png)
 
