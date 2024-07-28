@@ -26,8 +26,7 @@ Email: thang.dv509@gmail.com - Thang Doan<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ziwang@fiu.edu - Zichong Wang<br>
 
 
-![Fairness in Large Language Models](https://github.com/super-hash/Fairness-in-Large-Language-Models/blob/main/Fairness%20in%20Large%20Language%20Models.png)
-
+![Fairness in Large Language Models](https://github.com/super-hash/Fairness-in-Large-Language-Models/blob/main/images/Fairness%20in%20Large%20Language%20Models.png)
 
 ## Quantifying Bias in LLMs
 ### Embbedding-based Metrics
@@ -40,6 +39,7 @@ Email: thang.dv509@gmail.com - Thang Doan<br>
 + CrowS-Pairs: A Challenge Dataset for Measuring Social Biases in Masked Language Models [[ACL]](https://aclanthology.org/2020.emnlp-main.154/)
 ### Generation-based Metrics
 + Identifying and reducing gender bias in word-level language models [[ACL]](https://aclanthology.org/N19-3002.pdf)
+
 ## Mitigating Bias in LLMs
 ### Pre-processing
 + Measuring and reducing gendered correlations in pre-trained models [[arXiv]](https://arxiv.org/abs/2010.06032)
@@ -58,6 +58,10 @@ Email: thang.dv509@gmail.com - Thang Doan<br>
 + Evaluating Gender Bias in Large Language Models via Chain-of-Thought Prompting [[arXiv]](https://arxiv.org/abs/2401.15585)
 + Queer People are People First: Deconstructing Sexual Identity Stereotypes in Large Language Models [[ACL]](https://arxiv.org/abs/2307.00101)
 + Text Style Transfer for Bias Mitigation using Masked Language Modeling [[NAACL]](https://aclanthology.org/2022.naacl-srw.21/)
+
+## Fairness Definitions in LMs
+![Fairness in Large Language Models](https://github.com/super-hash/Fairness-in-Large-Language-Models/blob/main/images/Fairness%20Definitions%20in%20LMs.png)
+
 ## Datasets
 + [BOLD](https://github.com/amazon-science/bold)
 + [BBQ](https://github.com/nyu-mll/BBQ)
