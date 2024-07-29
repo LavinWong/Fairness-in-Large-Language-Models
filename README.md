@@ -110,7 +110,7 @@ Fairness in these models is evaluated using specific strategies designed to quan
 + [WinoQueer](https://github.com/katyfelkner/winoqueer)
 
 ## Citation
-### Fairness in Large Language Models: A Taxonomic Survey [![PDF](https://dl.acm.org/doi/abs/10.1145/3682112.3682117)
+### Fairness in Large Language Models: A Taxonomic Survey [![PDF](https://img.shields.io/badge/PDF-Download-red)](https://dl.acm.org/doi/abs/10.1145/3682112.3682117)
 
 If you find that our taxonomic survey helps your research, we would appreciate citations to the following paper:
 ```
