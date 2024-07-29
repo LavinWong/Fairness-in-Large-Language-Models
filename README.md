@@ -119,7 +119,11 @@ If you find that our survey helps your research, we would appreciate citations t
   title={Fairness in Large Language Models: A Taxonomic Survey},
   author={Chu, Zhibo and Wang, Zichong and Zhang, Wenbin},
   journal={ACM SIGKDD Explorations Newsletter},
-  year={2024}
+  volume={26},
+  number={1},
+  pages={34--48},
+  year={2024},
+  publisher={ACM New York, NY, USA}
 }
 ```
 
