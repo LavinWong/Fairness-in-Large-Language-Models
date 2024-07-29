@@ -8,7 +8,7 @@ This ongoing project aims to consolidate interesting efforts in the field of fai
 Thang Viet Doan, Zichong Wang, Minh Nhat Nguyen and Wenbin Zhang<br>
 *Proceedings of the ACM International Conference on Information and Knowledge Management (CIKM), Boise, USA, 2024*
 
-**Fairness in LLMs:** [Fairness in Large Language Models: A Taxonomic Survey](https://arxiv.org/abs/2404.01349)<br>
+**Fairness in LLMs:** [Fairness in Large Language Models: A Taxonomic Survey](https://dl.acm.org/doi/abs/10.1145/3682112.3682117)<br>
 Zhibo Chu, Zichong Wang and Wenbin Zhang<br>
 *ACM SIGKDD Explorations Newsletter, 2024*
 
