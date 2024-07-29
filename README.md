@@ -16,7 +16,7 @@ Zhibo Chu, Zichong Wang and Wenbin Zhang<br>
 ](https://arxiv.org/abs/2402.06853)<br>
 Zhibo Chu, Shiwen Ni, Zichong Wang, Xi Feng, Min Yang and Wenbin Zhang
 
-**Fairness Definitions:** [Fairness Definitions in Language Models Explained](https://arxiv.org/abs/2407.18454)<br>
+**Fairness Definitions in LLMs:** [Fairness Definitions in Language Models Explained](https://arxiv.org/abs/2407.18454)<br>
 Thang Viet Doan, Zhibo Chu, Zichong Wang and Wenbin Zhang
 
 
