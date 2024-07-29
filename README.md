@@ -110,8 +110,7 @@ Fairness in these models is evaluated using specific strategies designed to quan
 + [WinoQueer](https://github.com/katyfelkner/winoqueer)
 
 ## Citation
-### Fairness in Large Language Models: A Taxonomic Survey
-Our survey paper "Fairness in Large Language Models: A Taxonomic Survey" has been accepted by ACM SIGKDD Explorations Newsletter and released on arxiv: [![PDF](https://img.shields.io/badge/PDF-Download-red)](https://arxiv.org/abs/2404.01349)
+### Fairness in Large Language Models: A Taxonomic Survey [![PDF](https://img.shields.io/badge/PDF-Download-red)]([https://arxiv.org/abs/2404.01349](https://dl.acm.org/doi/abs/10.1145/3682112.3682117))
 
 If you find that our survey helps your research, we would appreciate citations to the following paper:
 ```
@@ -127,8 +126,7 @@ If you find that our survey helps your research, we would appreciate citations t
 }
 ```
 
-### Fairness Definitions in Language Models Explained
-Our survey paper "Fairness Definitions in Language Models Explained" has released on arxiv: [![PDF](https://img.shields.io/badge/PDF-Download-red)](https://arxiv.org/abs/2407.18454)
+### Fairness Definitions in Language Models Explained [![PDF](https://img.shields.io/badge/PDF-Download-red)](https://arxiv.org/abs/2407.18454)
 
 If you find that our survey helps your research, we would appreciate citations to the following paper:
 ```
