@@ -100,14 +100,34 @@ Fairness in these models is evaluated using specific strategies designed to quan
 + Text Style Transfer for Bias Mitigation using Masked Language Modeling [[NAACL]](https://aclanthology.org/2022.naacl-srw.21/)
 
 ## Datasets
-+ [BOLD](https://github.com/amazon-science/bold)
-+ [BBQ](https://github.com/nyu-mll/BBQ)
-+ [CrowS-Pairs](https://github.com/nyu-mll/crows-pairs/)
-+ [StereoSet](https://github.com/moinnadeem/stereoset)
+
 + [WinoBias](https://github.com/uclanlp/corefBias)
 + [WinoBias+](https://github.com/vnmssnhv/NeuTralRewriter)
 + [WinoGender](https://github.com/rudinger/winogender-schemas)
 + [WinoQueer](https://github.com/katyfelkner/winoqueer)
++ [BEC-Pro](https://github.com/marionbartl/gender-bias-BERT)
++ [BUG](https://github.com/SLAB-NLP/BUG)
++ [GAP](https://github.com/google-research-datasets/gap-coreference)
++ [StereoSet](https://github.com/moinnadeem/stereoset)
++ [HONEST](https://github.com/MilaNLProc/honest)
++ [Bias-NLI](https://github.com/sunipa/On-Measuring-and-Mitigating-Biased-Inferences-of-Word-Embeddings)
++ [CrowS-Pairs](https://github.com/nyu-mll/crows-pairs/)
++ [EEC](https://www.svkir.com/resources.html#EEC)
++ [PANDA](https://github.com/facebookresearch/ResponsibleNLP)
++ [RedditBias](https://github.com/umanlp/RedditBias)
++ [TrustGPT](https://github.com/HowieHwong/TrustGPT)
++ [FairPrism](https://github.com/microsoft/FairPrism)
++ [BOLD](https://github.com/amazon-science/bold)
++ [RealToxicityPrompts](https://allenai.org/data/real-toxicity-prompts)
++ [RedTeamingData](https://github.com/anthropics/hh-rlhf)
++ [HolisticBias](https://github.com/facebookresearch/ResponsibleNLP)
++ [BBQ](https://github.com/nyu-mll/BBQ)
++ [UnQover](https://github.com/allenai/unqover)
++ [Grep-BiasIR](https://github.com/KlaraKrieg/GrepBiasIR)
++ [CBS](https://github.com/SongW-SW/CEB)
++ [FairLex](https://github.com/coastalcph/fairlex)
+
+
 
 ## Citation
 ### Fairness in Large Language Models: A Taxonomic Survey [![PDF](https://img.shields.io/badge/PDF-Download-red)](https://dl.acm.org/doi/abs/10.1145/3682112.3682117)
