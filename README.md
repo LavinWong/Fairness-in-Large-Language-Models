@@ -14,7 +14,7 @@ Zhibo Chu, Zichong Wang and Wenbin Zhang<br>
 
 **Introduction to LLMs:** [History, Development, and Principles of Large Language Models-An Introductory Survey
 ](https://arxiv.org/abs/2402.06853)<br>
-Zhibo Chu, Shiwen Ni, Zichong Wang, Xi Feng, Min Yang and Wenbin Zhang
+Zichong Wang, Zhibo Chu, Thang Viet Doan, Shiwen Ni, Min Yang and Wenbin Zhang
 
 **Fairness Definitions in LLMs:** [Fairness Definitions in Language Models Explained](https://arxiv.org/abs/2407.18454)<br>
 Thang Viet Doan, Zhibo Chu, Zichong Wang and Wenbin Zhang
