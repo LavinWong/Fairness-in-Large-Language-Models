@@ -147,6 +147,19 @@ If you find that our taxonomic survey helps your research, we would appreciate c
 }
 ```
 
+### History, Development, and Principles of Large Language Models-An Introductory Survey [![PDF](https://img.shields.io/badge/PDF-Download-red)]([https://arxiv.org/abs/2407.18454](https://arxiv.org/pdf/2402.06853))
+
+If you find that our definition survey helps your research, we would appreciate citations to the following paper:
+```
+@article{wang2024history,
+  title={History, Development, and Principles of Large Language Models: An Introductory Survey},
+  author={Zichong Wang and Zhibo Chu and Thang Viet Doan and Shiwen Ni and Min Yang and Wenbin Zhang},
+  journal={AI and Ethics},
+  year={2024}
+}
+
+```
+
 ### Fairness Definitions in Language Models Explained [![PDF](https://img.shields.io/badge/PDF-Download-red)](https://arxiv.org/abs/2407.18454)
 
 If you find that our definition survey helps your research, we would appreciate citations to the following paper:
@@ -160,6 +173,5 @@ If you find that our definition survey helps your research, we would appreciate 
       primaryClass={cs.CL},
       url={https://arxiv.org/abs/2407.18454}, 
 }
-```
 
 
