@@ -124,7 +124,7 @@ Fairness in these models is evaluated using specific strategies designed to quan
 + [BBQ](https://github.com/nyu-mll/BBQ)
 + [UnQover](https://github.com/allenai/unqover)
 + [Grep-BiasIR](https://github.com/KlaraKrieg/GrepBiasIR)
-+ [CBS](https://github.com/SongW-SW/CEB)
++ [CEB](https://github.com/SongW-SW/CEB)
 + [FairLex](https://github.com/coastalcph/fairlex)
 
 
