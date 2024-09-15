@@ -147,7 +147,7 @@ If you find that our taxonomic survey helps your research, we would appreciate c
 }
 ```
 
-### History, Development, and Principles of Large Language Models-An Introductory Survey [![PDF](https://img.shields.io/badge/PDF-Download-red)]([https://arxiv.org/abs/2407.18454](https://arxiv.org/pdf/2402.06853))
+### History, Development, and Principles of Large Language Models-An Introductory Survey [![PDF](https://img.shields.io/badge/PDF-Download-red)](https://arxiv.org/pdf/2402.06853)
 
 If you find that our introduction survey helps your research, we would appreciate citations to the following paper:
 ```
