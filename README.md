@@ -30,19 +30,26 @@ Email: thang.dv509@gmail.com - Thang Doan<br>
 + Measuring and reducing gendered correlations in pre-trained models [[arXiv]](https://arxiv.org/abs/2010.06032)
 + Counterfactual Data Augmentation for Mitigating Gender Stereotypes in Languages with Rich Morphology [[ACL]](https://aclanthology.org/P19-1161/)
 + Deep Learning on a Healthy Data Diet: Finding Important Examples for Fairness [[AAAI]](https://arxiv.org/abs/2211.11109)
++ Improving Gender Fairness of Pre-Trained Language Models without Catastrophic Forgetting.[[ACL]](https://aclanthology.org/2023.acl-short.108/)
 ### In-training
 + Enhancing Model Robustness and Fairness with Causality: A Regularization Approach [[ACL]](https://aclanthology.org/2021.cinlp-1.3/)
 + Never Too Late to Learn: Regularizing Gender Bias in Coreference Resolution [[WSDM]](https://dl.acm.org/doi/abs/10.1145/3539597.3570473)
 + Sustainable Modular Debiasing of Language Models [[ACL]](https://aclanthology.org/2021.findings-emnlp.411.pdf)
 + Null It Out: Guarding Protected Attributes by Iterative Nullspace Projection [[ACL]](https://aclanthology.org/2020.acl-main.647/)
++ Does Gender Matter? Towards Fairness in Dialogue Systems [[COLING]](https://aclanthology.org/2020.coling-main.390/)
++ Debiasing pretrained text encoders by paying attention to paying attention [[EMNLP]](https://hal.science/hal-03919992/document)
++ Reducing Gender Bias in Word-Level Language Models with a Gender-Equalizing Loss Function [[ACL]](https://arxiv.org/pdf/1905.12801)
 ### Intra-processing
 + Debiasing algorithm through model adaptation [[ICLR]](https://arxiv.org/abs/2310.18913)
 + DUnE: Dataset for Unified Editing [[EMNLP]](https://arxiv.org/abs/2311.16087)
 + Reducing Sentiment Bias in Language Models via Counterfactual Evaluation [[EMNLP]](https://aclanthology.org/2020.findings-emnlp.7.pdf)
++ Using In-Context Learning to Improve Dialogue Safety [[EMNLP]](https://arxiv.org/pdf/2302.00871)
++ DExperts: Decoding-Time Controlled Text Generation with Experts and Anti-Experts [[ACL]](https://arxiv.org/pdf/2105.03023)
 ### Post-processing
 + Evaluating Gender Bias in Large Language Models via Chain-of-Thought Prompting [[arXiv]](https://arxiv.org/abs/2401.15585)
 + Queer People are People First: Deconstructing Sexual Identity Stereotypes in Large Language Models [[ACL]](https://arxiv.org/abs/2307.00101)
 + Text Style Transfer for Bias Mitigation using Masked Language Modeling [[NAACL]](https://aclanthology.org/2022.naacl-srw.21/)
++ They, them, theirs: Rewriting with gender-neutral english [[arXiv]](https://arxiv.org/pdf/2102.06788)
 
 ## Fairness Definitions in LMs ([Link](https://arxiv.org/pdf/2407.18454) to the paper)
 ![Fairness Definitions in LMs](https://github.com/super-hash/Fairness-in-Large-Language-Models/blob/main/images/Fairness%20Definitions%20in%20LMs.png)
