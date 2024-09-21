@@ -41,6 +41,7 @@ Email: thang.dv509@gmail.com - Thang Doan<br>
 + Does Gender Matter? Towards Fairness in Dialogue Systems [[COLING]](https://aclanthology.org/2020.coling-main.390/)
 + Debiasing pretrained text encoders by paying attention to paying attention [[EMNLP]](https://hal.science/hal-03919992/document)
 + Reducing Gender Bias in Word-Level Language Models with a Gender-Equalizing Loss Function [[ACL]](https://arxiv.org/pdf/1905.12801)
++ FineDeb: A Debiasing Framework for Language Models [[arXiv]](https://amulyayadav.github.io/AI4SG2023/images/24.pdf)
 ### Intra-processing
 + Debiasing algorithm through model adaptation [[ICLR]](https://arxiv.org/abs/2310.18913)
 + DUnE: Dataset for Unified Editing [[EMNLP]](https://arxiv.org/abs/2311.16087)
