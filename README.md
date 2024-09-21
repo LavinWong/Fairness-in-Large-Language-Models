@@ -31,6 +31,8 @@ Email: thang.dv509@gmail.com - Thang Doan<br>
 + Counterfactual Data Augmentation for Mitigating Gender Stereotypes in Languages with Rich Morphology [[ACL]](https://aclanthology.org/P19-1161/)
 + Deep Learning on a Healthy Data Diet: Finding Important Examples for Fairness [[AAAI]](https://arxiv.org/abs/2211.11109)
 + Improving Gender Fairness of Pre-Trained Language Models without Catastrophic Forgetting.[[ACL]](https://aclanthology.org/2023.acl-short.108/)
++ Data-Centric Explainable Debiasing for Improving Fairness in Pre-trained Language Models. [[ACL]](https://aclanthology.org/2024.findings-acl.226/)
++ 
 ### In-training
 + Enhancing Model Robustness and Fairness with Causality: A Regularization Approach [[ACL]](https://aclanthology.org/2021.cinlp-1.3/)
 + Never Too Late to Learn: Regularizing Gender Bias in Coreference Resolution [[WSDM]](https://dl.acm.org/doi/abs/10.1145/3539597.3570473)
@@ -68,7 +70,7 @@ Email: thang.dv509@gmail.com - Thang Doan<br>
   * StereoSet: Measuring stereotypical bias in pretrained language models [[arXiv]](https://arxiv.org/abs/2004.09456)
   * CrowS-pairs: A challenge dataset for measuring social biases in masked language models [[arXiv]](https://arxiv.org/abs/2010.00133)
   * Unmasking the mask–evaluating social biases in masked language models [[AAAI]](https://ojs.aaai.org/index.php/AAAI/article/download/21453/21202)
-  * Unmasking the mask–evaluating social biases in masked language models [[AAAI]](https://ojs.aaai.org/index.php/AAAI/article/download/21453/21202)
+  * Pro-Woman, Anti-Man? Identifying Gender Bias in Stance Detection [[ACL]](https://aclanthology.org/2024.findings-acl.192.pdf)
   
 **Extrinsic bias**: refers to the disparity in a LM’s performance across different downstream tasks, also known as downstream bias or prediction bias
 * Classification
@@ -133,6 +135,8 @@ Fairness in these models is evaluated using specific strategies designed to quan
 + [Grep-BiasIR](https://github.com/KlaraKrieg/GrepBiasIR)
 + [CEB](https://github.com/SongW-SW/CEB)
 + [FairLex](https://github.com/coastalcph/fairlex)
++ [GenderStance](https://aclanthology.org/2024.findings-acl.192/)
++ [IdentifyingSubtlerBiases](https://github.com/kamruzzaman15/Identifying-Subtler-Biases-in-LLMs)
 
 
 
