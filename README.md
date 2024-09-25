@@ -164,7 +164,7 @@ If you find that our introduction survey helps your research, we would appreciat
 ```
 @article{wang2024history,
   title={History, Development, and Principles of Large Language Models: An Introductory Survey},
-  author={Wang, Zichong and Chu, Zhibo and Thang Viet Doan and Ni, Shiwen and Yang, Min and Zhang, Wenbin},
+  author={Wang, Zichong and Chu, Zhibo and Doan, Thang Viet and Ni, Shiwen and Yang, Min and Zhang, Wenbin},
   journal={AI and Ethics},
   year={2024},
   publisher={Springer}
