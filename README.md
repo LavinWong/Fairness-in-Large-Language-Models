@@ -110,6 +110,7 @@ Fairness in these models is evaluated using specific strategies designed to quan
   * Is chatgpt fair for recommendation? evaluating fairness in large language model recommendation [[ACM]](https://arxiv.org/pdf/2305.07609)
 
 ## Datasets
+![Screenshot 2024-10-07 at 1 52 35 PM](https://github.com/user-attachments/assets/37895985-ccf6-4183-a035-d3238d5eac47)
 
 + [WinoBias](https://github.com/uclanlp/corefBias)
 + [WinoBias+](https://github.com/vnmssnhv/NeuTralRewriter)
@@ -129,16 +130,10 @@ Fairness in these models is evaluated using specific strategies designed to quan
 + [FairPrism](https://github.com/microsoft/FairPrism)
 + [BOLD](https://github.com/amazon-science/bold)
 + [RealToxicityPrompts](https://allenai.org/data/real-toxicity-prompts)
-+ [RedTeamingData](https://github.com/anthropics/hh-rlhf)
 + [HolisticBias](https://github.com/facebookresearch/ResponsibleNLP)
 + [BBQ](https://github.com/nyu-mll/BBQ)
 + [UnQover](https://github.com/allenai/unqover)
-+ [Grep-BiasIR](https://github.com/KlaraKrieg/GrepBiasIR)
 + [CEB](https://github.com/SongW-SW/CEB)
-+ [FairLex](https://github.com/coastalcph/fairlex)
-+ [GenderStance](https://aclanthology.org/2024.findings-acl.192/)
-+ [IdentifyingSubtlerBiases](https://github.com/kamruzzaman15/Identifying-Subtler-Biases-in-LLMs)
-
 
 
 ## Citation
