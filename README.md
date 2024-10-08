@@ -21,7 +21,7 @@ Zichong Wang, Zhibo Chu, Thang Viet Doan, Shiwen Ni, Min Yang and Wenbin Zhang<b
 Thang Viet Doan, Zhibo Chu, Zichong Wang and Wenbin Zhang
 
 
-Email: thang.dv509@gmail.com - Thang Doan<br>
+Email: thang.dv509@gmail.com - Thang Viet Doan<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ziwang@fiu.edu - Zichong Wang<br>
 
 ## Mitigating Bias in LLMs ([Link](https://dl.acm.org/doi/abs/10.1145/3682112.3682117) to the paper)
