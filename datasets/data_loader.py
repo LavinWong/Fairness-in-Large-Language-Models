@@ -2,10 +2,10 @@ import json
 import pandas as pd
 import os
 
-class DataLoader():
+class DataLoader:
     def load_dataset_winobias():
         files = ['anti_stereotyped_type1.txt.dev', 'anti_stereotyped_type1.txt.test', 'anti_stereotyped_type2.txt.dev', 'anti_stereotyped_type2.txt.test',
-         'pro_stereotyped_type1.txt.dev', 'pro_stereotyped_type1.txt.test', 'pro_stereotyped_type2.txt.dev', 'pro_stereotyped_type2.txt.test']
+            'pro_stereotyped_type1.txt.dev', 'pro_stereotyped_type1.txt.test', 'pro_stereotyped_type2.txt.dev', 'pro_stereotyped_type2.txt.test']
 
         sentences = []
 
@@ -15,7 +15,7 @@ class DataLoader():
                 sentences += f.readlines()
 
         return sentences
-    
+            
     def load_dataset_winobiasplus():
         sentences = []
         file_path = f'./data/WinoBias+/data/WinoBias+.txt'
@@ -23,7 +23,7 @@ class DataLoader():
             sentences += f.readlines()
 
         return sentences
-    
+        
     def load_dataset_winogender():
         df = pd.read_csv('./data/WinoGender/data/all_sentences.tsv', sep='\t')
         sentences = df['sentence'].tolist()

@@ -94,7 +94,7 @@ def cosine_distance(vec1, vec2):
     cos_sim = 1 - np.dot(vec1, vec2) / (np.linalg.norm(vec1) * np.linalg.norm(vec2))
     return cos_sim
 
-def generate_keywords_from_sentences(sentences):
+def generate_keywords_from_sentences(sentences, k):
     all_candidates = set()
 
     sentences = [sentence for sentence in sentences if isinstance(sentence, str) and sentence.strip()]
@@ -114,25 +114,16 @@ def generate_keywords_from_sentences(sentences):
     tfidf_scores_dict = dict(zip(tfidf_feature_names, tfidf_scores))
     
     candidate_tfidf_scores = {candidate: tfidf_scores_dict.get(candidate, 0) for candidate in all_candidates}
-    top_keywords = sorted(candidate_tfidf_scores.items(), key=lambda x: x[1], reverse=True)[:100]
+    top_keywords = sorted(candidate_tfidf_scores.items(), key=lambda x: x[1], reverse=True)[:k]
     keywords = [word for word, score in top_keywords]
 
+    return keywords
+
+def visualize_gender_bias_tfidf(sentences, keywords):
+    tfidf_vectorizer = TfidfVectorizer()
+    tfidf_matrix = tfidf_vectorizer.fit_transform(sentences)
+    tfidf_feature_names = tfidf_vectorizer.get_feature_names_out()
     words_for_bias_calculation = [word for word in tfidf_feature_names if word not in unwanted]
-
-    return words_for_bias_calculation, keywords, tfidf_vectorizer, tfidf_matrix
-
-def visualize_gender_bias_tfidf(sentences, keywords, tfidf_vectorizer, tfidf_matrix):
-    all_candidates = set()
-
-    sentences = [sentence for sentence in sentences if isinstance(sentence, str) and sentence.strip()]
-
-    for sentence in sentences:
-        preprocessed_words = preprocess_sentence_for_keywords(sentence)
-        
-        all_candidates.update(preprocessed_words)
-    
-    all_candidates = all_candidates.difference(unwanted)
-    words_for_bias_calculation = [word for word in all_candidates if word not in unwanted]
 
     gender_pairs = [("she", "he"), ("her", "his"), ("woman", "man"), ("mary", "john"), ("herself", "himself"), ("daughter", "son"), ("mother", "father"), ("gal", "guy"), ("girl", "boy"), ("female", "male")]
 

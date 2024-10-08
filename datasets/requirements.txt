@@ -1,4 +1,4 @@
-ntlk
+nltk
 scikit-learn
 gensim
 matplotlib
