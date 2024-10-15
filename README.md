@@ -5,7 +5,7 @@ This ongoing project aims to consolidate interesting efforts in the field of fai
 **Disclaimer: We may have missed some relevant papers in the list. If you have suggestions or want to add papers, please submit a pull request or email us—your contributions are greatly appreciated!**
 
 **Tutorial:** [Fairness in Large Language Models in Three Hours](https://fairness-in-llms.github.io)<br>
-Thang Viet Doan, Zichong Wang, Minh Nhat Nguyen and Wenbin Zhang<br>
+Thang Viet Doan, Zichong Wang, Nhat Hoang and Wenbin Zhang<br>
 *Proceedings of the ACM International Conference on Information and Knowledge Management (CIKM), Boise, USA, 2024*
 
 **Fairness in LLMs:** [Fairness in Large Language Models: A Taxonomic Survey](https://dl.acm.org/doi/abs/10.1145/3682112.3682117)<br>
@@ -19,6 +19,9 @@ Zichong Wang, Zhibo Chu, Thang Viet Doan, Shiwen Ni, Min Yang and Wenbin Zhang<b
 
 **Fairness Definitions in LLMs:** [Fairness Definitions in Language Models Explained](https://arxiv.org/abs/2407.18454)<br>
 Thang Viet Doan, Zhibo Chu, Zichong Wang and Wenbin Zhang
+
+**Datasets for fairness in LLMs:** [Datasets for Fairness in Language Models: An In-Depth Survey]()<br>
+Thang Viet Doan, Nhat Hoang, Zichong Wang and Wenbin Zhang
 
 
 Email: thang.dv509@gmail.com - Thang Viet Doan<br>
