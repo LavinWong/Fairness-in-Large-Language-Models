@@ -20,7 +20,7 @@ Zichong Wang, Zhibo Chu, Thang Viet Doan, Shiwen Ni, Min Yang and Wenbin Zhang<b
 **Fairness Definitions in LLMs:** [Fairness Definitions in Language Models Explained](https://arxiv.org/abs/2407.18454)<br>
 Thang Viet Doan, Zhibo Chu, Zichong Wang and Wenbin Zhang
 
-**Datasets for fairness in LLMs:** [Datasets for Fairness in Language Models: An In-Depth Survey]()<br>
+**Datasets for Fairness in LLMs:** [Datasets for Fairness in Language Models: An In-Depth Survey]()<br>
 Thang Viet Doan, Nhat Hoang, Zichong Wang and Wenbin Zhang
 
 
