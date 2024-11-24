@@ -30,7 +30,6 @@ Email: ziwang@fiu.edu - Zichong Wang<br>
 + Social Bias Probing: Fairness Benchmarking for Language Models [[EMNLP]](https://arxiv.org/abs/2311.09090)
 + Strategic Demonstration Selection for Improved Fairness in LLM In-Context Learning [[EMNLP]](https://arxiv.org/abs/2408.09757)
 + Systematic Biases in LLM Simulations of Debates [[EMNLP]](https://arxiv.org/abs/2402.04049)
-+ Studying and Mitigating Biases in Sign Language Understanding Models [[EMNLP]](https://arxiv.org/abs/2410.05206)
 + Mitigating Language Bias of LMMs in Social Intelligence Understanding with Virtual Counterfactual Calibration [[EMNLP]](https://aclanthology.org/2024.emnlp-main.77/)
 + A Peek into Token Bias: Large Language Models Are Not Yet Genuine Reasoners [[EMNLP]](https://arxiv.org/abs/2406.11050)
 + Mitigating Frequency Bias and Anisotropy in Language Model Pre-Training with Syntactic Smoothing [[EMNLP]](https://arxiv.org/abs/2410.11462)
