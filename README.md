@@ -30,6 +30,8 @@ Email: ziwang@fiu.edu - Zichong Wang<br>
 + Social Bias Probing: Fairness Benchmarking for Language Models [[EMNLP]](https://arxiv.org/abs/2311.09090)
 + Strategic Demonstration Selection for Improved Fairness in LLM In-Context Learning [[EMNLP]](https://arxiv.org/abs/2408.09757)
 + Debiasing Text Safety Classifiers through a Fairness-Aware Ensemble [[EMNLP]](https://arxiv.org/abs/2409.13705)
++ MAGNET: Improving the Multilingual Fairness of Language Models with Adaptive Gradient-Based Tokenization [[Neurips]](https://arxiv.org/abs/2407.08818)
++ Bias Amplification in Language Model Evolution: An Iterated Learning Perspective [[Neurips]](https://arxiv.org/abs/2404.04286)
 ### Pre-processing
 + Measuring and reducing gendered correlations in pre-trained models [[arXiv]](https://arxiv.org/abs/2010.06032)
 + Counterfactual Data Augmentation for Mitigating Gender Stereotypes in Languages with Rich Morphology [[ACL]](https://aclanthology.org/P19-1161/)
