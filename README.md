@@ -29,6 +29,20 @@ Email: ziwang@fiu.edu - Zichong Wang<br>
 ## 2024
 + Social Bias Probing: Fairness Benchmarking for Language Models [[EMNLP]](https://arxiv.org/abs/2311.09090)
 + Strategic Demonstration Selection for Improved Fairness in LLM In-Context Learning [[EMNLP]](https://arxiv.org/abs/2408.09757)
++ Systematic Biases in LLM Simulations of Debates [[EMNLP]](https://arxiv.org/abs/2402.04049)
++ Studying and Mitigating Biases in Sign Language Understanding Models [[EMNLP]](https://arxiv.org/abs/2410.05206)
++ Mitigating Language Bias of LMMs in Social Intelligence Understanding with Virtual Counterfactual Calibration [[EMNLP]](https://aclanthology.org/2024.emnlp-main.77/)
++ A Peek into Token Bias: Large Language Models Are Not Yet Genuine Reasoners [[EMNLP]](https://arxiv.org/abs/2406.11050)
++ Mitigating Frequency Bias and Anisotropy in Language Model Pre-Training with Syntactic Smoothing [[EMNLP]](https://arxiv.org/abs/2410.11462)
++ “You Gotta be a Doctor, Lin”: An Investigation of Name-Based Bias of Large Language Models in Employment Recommendations [[EMNLP]](https://arxiv.org/abs/2406.12232)
++ Humans or LLMs as the Judge? A Study on Judgement Bias [[EMNLP]](https://arxiv.org/abs/2402.10669)
++ Walking in Others’ Shoes: How Perspective-Taking Guides Large Language Models in Reducing Toxicity and Bias [[EMNLP]](https://arxiv.org/abs/2407.15366)
++ Decoding Matters: Addressing Amplification Bias and Homogeneity Issue in Recommendations for Large Language Models [[EMNLP]](https://arxiv.org/abs/2406.14900)
++ Mitigate Extrinsic Social Bias in Pre-trained Language Models via Continuous Prompts Adjustment [[EMNLP]](https://aclanthology.org/2024.emnlp-main.620/)
++ Split and Merge: Aligning Position Biases in LLM-based Evaluators [[EMNLP]](https://arxiv.org/abs/2310.01432)
++ Mitigating Language Bias of LMMs in Social Intelligence Understanding with Virtual Counterfactual Calibration [[EMNLP]](https://aclanthology.org/2024.emnlp-main.77/)
++ 
++ 
 + Debiasing Text Safety Classifiers through a Fairness-Aware Ensemble [[EMNLP]](https://arxiv.org/abs/2409.13705)
 + MAGNET: Improving the Multilingual Fairness of Language Models with Adaptive Gradient-Based Tokenization [[Neurips]](https://arxiv.org/abs/2407.08818)
 + Bias Amplification in Language Model Evolution: An Iterated Learning Perspective [[Neurips]](https://arxiv.org/abs/2404.04286)
