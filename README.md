@@ -26,13 +26,14 @@ Email: ziwang@fiu.edu - Zichong Wang<br>
 
 ## Mitigating Bias in LLMs ([Link](https://dl.acm.org/doi/abs/10.1145/3682112.3682117) to the paper)
 ![Fairness in Large Language Models](https://github.com/super-hash/Fairness-in-Large-Language-Models/blob/main/images/Fairness%20in%20Large%20Language%20Models.png)
+### 2024
++ Social Bias Probing: Fairness Benchmarking for Language Models [EMNLP]](https://arxiv.org/abs/2311.09090)
 ### Pre-processing
 + Measuring and reducing gendered correlations in pre-trained models [[arXiv]](https://arxiv.org/abs/2010.06032)
 + Counterfactual Data Augmentation for Mitigating Gender Stereotypes in Languages with Rich Morphology [[ACL]](https://aclanthology.org/P19-1161/)
 + Deep Learning on a Healthy Data Diet: Finding Important Examples for Fairness [[AAAI]](https://arxiv.org/abs/2211.11109)
 + Improving Gender Fairness of Pre-Trained Language Models without Catastrophic Forgetting.[[ACL]](https://aclanthology.org/2023.acl-short.108/)
 + Data-Centric Explainable Debiasing for Improving Fairness in Pre-trained Language Models. [[ACL]](https://aclanthology.org/2024.findings-acl.226/)
-+ 
 ### In-training
 + Enhancing Model Robustness and Fairness with Causality: A Regularization Approach [[ACL]](https://aclanthology.org/2021.cinlp-1.3/)
 + Never Too Late to Learn: Regularizing Gender Bias in Coreference Resolution [[WSDM]](https://dl.acm.org/doi/abs/10.1145/3539597.3570473)
