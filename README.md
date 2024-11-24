@@ -42,7 +42,6 @@ Email: ziwang@fiu.edu - Zichong Wang<br>
 + Split and Merge: Aligning Position Biases in LLM-based Evaluators [[EMNLP]](https://arxiv.org/abs/2310.01432)
 + Mitigating Language Bias of LMMs in Social Intelligence Understanding with Virtual Counterfactual Calibration [[EMNLP]](https://aclanthology.org/2024.emnlp-main.77/)
 + Hidden Persuaders: How LLM Political Bias Could Sway Our Elections [[EMNLP]](https://arxiv.org/abs/2410.24190)
-+ A Peek into Token Bias: Large Language Models Are Not Yet Genuine Reasoners [[EMNLP]](https://arxiv.org/abs/2406.11050)
 + Debiasing Text Safety Classifiers through a Fairness-Aware Ensemble [[EMNLP]](https://arxiv.org/abs/2409.13705)
 + MAGNET: Improving the Multilingual Fairness of Language Models with Adaptive Gradient-Based Tokenization [[Neurips]](https://arxiv.org/abs/2407.08818)
 + Bias Amplification in Language Model Evolution: An Iterated Learning Perspective [[Neurips]](https://arxiv.org/abs/2404.04286)
