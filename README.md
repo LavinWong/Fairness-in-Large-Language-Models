@@ -33,6 +33,8 @@ Email: ziwang@fiu.edu - Zichong Wang<br>
 + MAGNET: Improving the Multilingual Fairness of Language Models with Adaptive Gradient-Based Tokenization [[Neurips]](https://arxiv.org/abs/2407.08818)
 + Bias Amplification in Language Model Evolution: An Iterated Learning Perspective [[Neurips]](https://arxiv.org/abs/2404.04286)
 + Probing Social Bias in Labor Market Text Generation by ChatGPT: A Masked Language Model Approach [[Neurips]](https://openreview.net/forum?id=MP7j58lbWO&referrer=%5Bthe%20profile%20of%20Bei%20Jiang%5D(%2Fprofile%3Fid%3D~Bei_Jiang1))
++ UniBias: Unveiling and Mitigating LLM Bias through Internal Attention and FFN Manipulation [[Neurips]](https://arxiv.org/abs/2405.20612)
++ Probing Social Bias in Labor Market Text Generation by ChatGPT: A Masked Language Model Approach [[Neurips]](https://openreview.net/forum?id=MP7j58lbWO&referrer=%5Bthe%20profile%20of%20Bei%20Jiang%5D(%2Fprofile%3Fid%3D~Bei_Jiang1))
 ### Pre-processing
 + Measuring and reducing gendered correlations in pre-trained models [[arXiv]](https://arxiv.org/abs/2010.06032)
 + Counterfactual Data Augmentation for Mitigating Gender Stereotypes in Languages with Rich Morphology [[ACL]](https://aclanthology.org/P19-1161/)
