@@ -35,6 +35,10 @@ Email: ziwang@fiu.edu - Zichong Wang<br>
 + Probing Social Bias in Labor Market Text Generation by ChatGPT: A Masked Language Model Approach [[Neurips]](https://openreview.net/forum?id=MP7j58lbWO&referrer=%5Bthe%20profile%20of%20Bei%20Jiang%5D(%2Fprofile%3Fid%3D~Bei_Jiang1))
 + UniBias: Unveiling and Mitigating LLM Bias through Internal Attention and FFN Manipulation [[Neurips]](https://arxiv.org/abs/2405.20612)
 + Probing Social Bias in Labor Market Text Generation by ChatGPT: A Masked Language Model Approach [[Neurips]](https://openreview.net/forum?id=MP7j58lbWO&referrer=%5Bthe%20profile%20of%20Bei%20Jiang%5D(%2Fprofile%3Fid%3D~Bei_Jiang1))
++ Allegator: Alleviating Attention Bias for Visual-Informed Text Generation [[Neurips]](https://openreview.net/forum?id=54wMumO5Qd&referrer=%5Bthe%20profile%20of%20Miso%20Choi%5D(%2Fprofile%3Fid%3D~Miso_Choi2))
++ A Unified Debiasing Approach for Vision-Language Models across Modalities and Tasks [[Neurips]](https://arxiv.org/abs/2410.07593)
++ Cross-Care: Assessing the Healthcare Implications of Pre-training Data on Language Model Bias [[Neurips]](https://arxiv.org/abs/2405.05506)
++ Unveiling the Bias Impact on Symmetric Moral Consistency of Large Language Models [[Neurips]](https://openreview.net/forum?id=vCIc9BXzze&referrer=%5Bthe%20profile%20of%20Xin%20Yao%5D(%2Fprofile%3Fid%3D~Xin_Yao1))
 ### Pre-processing
 + Measuring and reducing gendered correlations in pre-trained models [[arXiv]](https://arxiv.org/abs/2010.06032)
 + Counterfactual Data Augmentation for Mitigating Gender Stereotypes in Languages with Rich Morphology [[ACL]](https://aclanthology.org/P19-1161/)
