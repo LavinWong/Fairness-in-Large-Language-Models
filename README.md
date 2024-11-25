@@ -23,39 +23,14 @@ Thang Viet Doan, Zhibo Chu, Zichong Wang and Wenbin Zhang
 
 Email: ziwang@fiu.edu - Zichong Wang<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wenbinzhang2008@gmail.com - Wenbin Zhang<br>
-## Contents
-- [Mitigating Bias in LLMs](#mitigating-bias-in-llms)
-  - [By Year](#by-year)
-  - [By Category](#by-category)
-- [Fairness Definitions in LMs](#fairness-definitions-in-lms-link-to-the-paper)
-- [Datasets](#datasets)
-- [Citation](#citation)
 
 ### 📚 **Contents**
-- **🌟 [Mitigating Bias in LLMs](#mitigating-bias-in-llms)**
-  - 📅 [By Year](#by-year)
-  - 📂 [By Category](#by-category)
-- **📖 [Fairness Definitions in LMs (Link to the paper)](#fairness-definitions-in-lms-link-to-the-paper)**
-- **📊 [Datasets](#datasets)**
-- **🔖 [Citation](#citation)**
-
-### 📌 **Contents**
-- [Mitigating Bias in LLMs](#mitigating-bias-in-llms)
-  - [By Year](#by-year)
-  - [By Category](#by-category)
-- [Fairness Definitions in LMs (Link to the paper)](#fairness-definitions-in-lms-link-to-the-paper)
-- [Datasets](#datasets)
-- [Citation](#citation)
-
-### **Contents**
-以下是本项目的结构目录，点击各部分可以直接跳转：
-
 ---
 
 - [Mitigating Bias in LLMs](#mitigating-bias-in-llms)
   - [By Year](#by-year)
   - [By Category](#by-category)
-- [Fairness Definitions in LMs (Link to the paper)](#fairness-definitions-in-lms-link-to-the-paper)
+- [Fairness Definitions in LMs](#fairness-definitions-in-lms-link-to-the-paper)
 - [Datasets](#datasets)
 - [Citation](#citation)
 
