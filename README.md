@@ -24,8 +24,8 @@ Thang Viet Doan, Zhibo Chu, Zichong Wang and Wenbin Zhang
 Email: ziwang@fiu.edu - Zichong Wang<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wenbinzhang2008@gmail.com - Wenbin Zhang<br>
 
-## 📚 **Contents**
 ---
+## 📚 **Contents**
 
 - [Mitigating Bias in LLMs](#mitigating-bias-in-llms)
   - [By Year](#by-year)
