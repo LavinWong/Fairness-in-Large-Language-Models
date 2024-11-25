@@ -30,6 +30,19 @@ Email: ziwang@fiu.edu - Zichong Wang<br>
 - [Fairness Definitions in LMs](#fairness-definitions-in-lms-link-to-the-paper)
 - [Datasets](#datasets)
 - [Citation](#citation)
+<div style="background-color: #f9f9f9; border: 1px solid #ccc; padding: 10px; border-radius: 5px;">
+  
+### Contents
+- **Mitigating Bias in LLMs**
+  - [By Year](#by-year)
+  - [By Category](#by-category)
+- **Fairness Definitions in LMs**
+  - Link to the paper
+- **Datasets**
+- **Citation**
+
+</div>
+
 ## Mitigating Bias in LLMs ([Link](https://dl.acm.org/doi/abs/10.1145/3682112.3682117) to the paper)
 ![Fairness in Large Language Models](https://github.com/super-hash/Fairness-in-Large-Language-Models/blob/main/images/Fairness%20in%20Large%20Language%20Models.png)
 ## By Year
