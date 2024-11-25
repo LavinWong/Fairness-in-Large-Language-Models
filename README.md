@@ -24,8 +24,10 @@ Thang Viet Doan, Zhibo Chu, Zichong Wang and Wenbin Zhang
 Email: ziwang@fiu.edu - Zichong Wang<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wenbinzhang2008@gmail.com - Wenbin Zhang<br>
 ## Contents
-- [By Year](#by-year)
-- [By Category](#by-category)
+- [Mitigating Bias in LLMs](#mitigating-bias-in-llms)
+  - [By Year](#by-year)
+  - [By Category](#by-category)
+- [Citation](#citation)
 ## Mitigating Bias in LLMs ([Link](https://dl.acm.org/doi/abs/10.1145/3682112.3682117) to the paper)
 ![Fairness in Large Language Models](https://github.com/super-hash/Fairness-in-Large-Language-Models/blob/main/images/Fairness%20in%20Large%20Language%20Models.png)
 ## By Year
