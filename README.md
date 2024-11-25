@@ -47,6 +47,20 @@ Email: ziwang@fiu.edu - Zichong Wang<br>
 - [Datasets](#datasets)
 - [Citation](#citation)
 
+### **Contents**
+以下是本项目的结构目录，点击各部分可以直接跳转：
+
+---
+
+- [Mitigating Bias in LLMs](#mitigating-bias-in-llms)
+  - [By Year](#by-year)
+  - [By Category](#by-category)
+- [Fairness Definitions in LMs (Link to the paper)](#fairness-definitions-in-lms-link-to-the-paper)
+- [Datasets](#datasets)
+- [Citation](#citation)
+
+---
+
 
 ## Mitigating Bias in LLMs ([Link](https://dl.acm.org/doi/abs/10.1145/3682112.3682117) to the paper)
 ![Fairness in Large Language Models](https://github.com/super-hash/Fairness-in-Large-Language-Models/blob/main/images/Fairness%20in%20Large%20Language%20Models.png)
