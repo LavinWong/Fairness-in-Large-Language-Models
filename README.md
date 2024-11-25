@@ -30,7 +30,7 @@ Email: ziwang@fiu.edu - Zichong Wang<br>
 - [Mitigating Bias in LLMs](#mitigating-bias-in-llms)
   - [By Year](#by-year)
   - [By Category](#by-category)
-- [Quantification bias in LMs](#fairness-definitions-in-lms-link-to-the-paper)
+- [Quantification bias in LMs](#quantification-bias-in-lms-link-to-the-paper)
 - [Datasets](#datasets)
 - [Citation](#citation)
 
