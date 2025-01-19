@@ -38,7 +38,7 @@ Email: ziwang@fiu.edu - Zichong Wang<br>
 
 
 ## Mitigating Bias in LMs ([Link](https://dl.acm.org/doi/abs/10.1145/3682112.3682117) to the paper)
-![Fairness in Large Language Models](https://github.com/super-hash/Fairness-in-Large-Language-Models/blob/main/images/Fairness%20in%20Large%20Language%20Models.png)
+![Fairness in Large Language Models](https://github.com/super-hash/Fairness-in-Large-Language-Models/blob/main/tutorial/images/Fairness%20in%20Large%20Language%20Models.png)
 ## By Year
 ### 2024
 + Social Bias Probing: Fairness Benchmarking for Language Models [[EMNLP]](https://arxiv.org/abs/2311.09090)
