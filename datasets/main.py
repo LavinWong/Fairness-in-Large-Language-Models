@@ -67,4 +67,5 @@ if command:  # keywords 模式
 else:  # visualize 模式
     if len(keywords) == 0:
         keywords = tools.generate_keywords_from_sentences(dataset, 100)  
-    tools.visualize_gender_bias_tfidf(dataset, keywords)
+    # tools.visualize_gender_bias_tfidf(dataset, keywords)
+    tools.visualize_gender_bias_word2vec(dataset, keywords)
