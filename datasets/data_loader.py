@@ -6,6 +6,7 @@ class DataLoader:
     def load_dataset_winobias():
         files = ['anti_stereotyped_type1.txt.dev', 'anti_stereotyped_type1.txt.test', 'anti_stereotyped_type2.txt.dev', 'anti_stereotyped_type2.txt.test',
             'pro_stereotyped_type1.txt.dev', 'pro_stereotyped_type1.txt.test', 'pro_stereotyped_type2.txt.dev', 'pro_stereotyped_type2.txt.test']
+        # files = ['pro_stereotyped_type1.txt.dev', 'pro_stereotyped_type1.txt.test', 'pro_stereotyped_type2.txt.dev', 'pro_stereotyped_type2.txt.test']
 
         sentences = []
 
@@ -18,7 +19,7 @@ class DataLoader:
             
     def load_dataset_winobiasplus():
         sentences = []
-        file_path = f'./data/WinoBias+/data/WinoBias+.txt'
+        file_path = f'./data/WinoBias+/data/WinoBias+.references'
         with open(file_path, 'r', encoding='utf-8') as f:
             sentences += f.readlines()
 
