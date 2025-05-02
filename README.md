@@ -4,9 +4,9 @@ This ongoing project aims to consolidate interesting efforts in the field of fai
 
 **Disclaimer: We may have missed some relevant papers in the list. If you have suggestions or want to add papers, please submit a pull request or email us—your contributions are greatly appreciated!**
 
-**Tutorial:** [Fairness in Large Language Models in Three Hours](https://fairnessinllmstutorial.github.io)<br>
-Thang Viet Doan, Zichong Wang, Nhat Hoang and Wenbin Zhang<br>
-*Proceedings of the ACM International Conference on Information and Knowledge Management (CIKM), Boise, USA, 2024*
+**Tutorial:** [Fairness in Large Language Models: A Tutorial](https://fairnessinllmstutorial.github.io)<br>
+Zichong Wang, Avash Palikhe, Zhipeng Yin, Jiale Zhang and Wenbin Zhang<br>
+*The 34<sup>th</sup> International Joint Conference on Artificial Intelligence (IJCAI), Montreal, Canada, 2025*
 
 **Fairness in LLMs:** [Fairness in Large Language Models: A Taxonomic Survey](https://dl.acm.org/doi/abs/10.1145/3682112.3682117)<br>
 Zhibo Chu, Zichong Wang and Wenbin Zhang<br>
