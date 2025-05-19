@@ -42,6 +42,9 @@ Email: ziwang@fiu.edu - Zichong Wang<br>
 ## By Year
 ### 2025
 + Is Your Model Fairly Certain? Uncertainty-Aware Fairness Evaluation for LLMs [[ICML]](https://icml.cc/virtual/2025/poster/44735)
++ Unbiased and Economic LLM Evaluation via Synthetic Feedback [[ICML]](https://icml.cc/virtual/2025/poster/46205)
++ Position: Rethinking LLM Bias Probing Using Lessons from the Social Sciences [[ICML]](https://icml.cc/virtual/2025/poster/40102)
++ FACTER: Fairness-Aware Conformal Thresholding and Prompt Engineering for Enabling Fair LLM-Based Recommender Systems [[ICML]](https://arxiv.org/abs/2502.02966)
 ### 2024
 + Social Bias Probing: Fairness Benchmarking for Language Models [[EMNLP]](https://arxiv.org/abs/2311.09090)
 + Strategic Demonstration Selection for Improved Fairness in LLM In-Context Learning [[EMNLP]](https://arxiv.org/abs/2408.09757)
